@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+# USB traces from tools/capture.ps1
+*.etl
+usbtrace*.xml
+usbproviders.txt
+capture.log
